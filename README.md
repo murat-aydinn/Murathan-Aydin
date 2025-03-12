@@ -1,6 +1,6 @@
 # 🚀 Murathan Aydin
 
-👨‍💻 About Me
+👨‍💻
 
 Passionate about full-stack web development, I am currently studying at Web Academy by Epitech (2024-2026).
 
